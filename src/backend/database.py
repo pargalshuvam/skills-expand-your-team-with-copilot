@@ -164,6 +164,18 @@ initial_activities = {
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
     }
+    ,
+    "Manga Club": {
+        "description": "Step into a world of epic adventures, legendary heroes, and unforgettable friendships! Join the Manga Club to dive into the vibrant universe of Japanese manga—where every page bursts with action, emotion, and imagination. Whether you dream of becoming a ninja, a pirate king, or just want to discover your next favorite story, this is the place for you!",
+        "schedule": "Tuesdays, 5:00 PM - 6:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "17:00",
+            "end_time": "18:00"
+        },
+        "max_participants": 25,
+        "participants": []
+    }
 }
 
 initial_teachers = [
