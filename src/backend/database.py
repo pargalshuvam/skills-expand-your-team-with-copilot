@@ -166,7 +166,7 @@ initial_activities = {
     }
     ,
     "Manga Club": {
-        "description": "Step into a world of epic adventures, legendary heroes, and unforgettable friendships! Join the Manga Club to dive into the vibrant universe of Japanese manga—where every page bursts with action, emotion, and imagination. Whether you dream of becoming a ninja, a pirate king, or just want to discover your next favorite story, this is the place for you!",
+        "description": "Step into a world of Epic adventures, legendary heroes, and unforgettable friendships! Join the Manga Club to dive into the vibrant universe of Japanese manga—where every page bursts with action, emotion, and imagination. Whether you dream of becoming a ninja, a pirate king, or just want to discover your next favorite story, this is the place for you!",
         "schedule": "Tuesdays, 5:00 PM - 6:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
